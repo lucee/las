@@ -7,4 +7,5 @@
 * [Secretary](management/secretary.md)
 * [General Assembly](orders/general_assembly.md)
 * [Board Elections](management/board_elections.md)
+* Chairman
 

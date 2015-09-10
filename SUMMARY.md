@@ -9,5 +9,5 @@
 * [Board Elections](management/board_elections.md)
 * [Chairman](management/chairman.md)
 * [Vice Chairman](vice_chairman.md)
-* Sub Committees
+* [Sub Committees](committee/sub_committees.md)
 

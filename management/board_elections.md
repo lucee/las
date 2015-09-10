@@ -4,7 +4,7 @@
 
 Members are responsible for electing representatives of the executive leadership team (Chairman, Treasurer, and Secretary) and non-executive Management Committee representatives.
 
-_Note; what should be the practical upper limit of the number of people on the Management Board_
+_GB: what should be the practical upper limit of the number of people on the Management Board? Currently the Articles allow for a Board of any size if the Membership choose to vote that way._
 
 ## Eligibility
 
@@ -20,13 +20,15 @@ The management committee is empowered to appoint a temporary acting role for per
 
 ## Executive Roles
 
-_management board roles should be voted by the management board itself. the only member election requirements are the President and the Management Board members themselves. Probably worthwhile considering President and Chairman as separate roles._
+_GB: Management board roles are voted by the management board itself. the only member election requirements are the President and the Management Board members themselves. Probably worthwhile considering President and Chairman as separate roles._
 
 For executive roles (Chairman, Vice Chairman, Treasurer and Secretary) elections are determined by a clear majority bewteen two candidates.  
 
 In the case of more than two candidates, a primary election process will be used to determine two candidates for the election. Members will have an open primary ballot for all candidates. The two candidates with the most votes in the open primary ballot progress to the general election. Note, a winner is never chosen in the primary, even if one candidate has over 50% of the primary vote.
 
 All ties are resolved by the selection of a random ballot.
+
+_GB: while i like this election process, the current Articles suggest that only a majority vote of members is required for election. While the Articles are not explicit and open to interpretation, it may be appropriate to update the articles to nominate a specific voting process for elections._
 
 ## Non-Executive Appointments
 

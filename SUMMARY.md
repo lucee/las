@@ -6,5 +6,5 @@
 * [Treasurer](management/treasurer.md)
 * [Secretary](management/secretary.md)
 * [General Assembly](orders/general_assembly.md)
-* Board Elections
+* [Board Elections](management/board_elections.md)
 

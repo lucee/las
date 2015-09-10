@@ -5,5 +5,5 @@
 * [Management Board](management/board.md)
 * [Treasurer](management/treasurer.md)
 * [Secretary](management/secretary.md)
-* General Assembly
+* [General Assembly](orders/general_assembly.md)
 

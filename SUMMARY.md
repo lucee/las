@@ -8,5 +8,5 @@
 * [General Assembly](orders/general_assembly.md)
 * [Board Elections](management/board_elections.md)
 * [Chairman](management/chairman.md)
-* Vice Chairman
+* [Vice Chairman](vice_chairman.md)
 

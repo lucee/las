@@ -5,4 +5,5 @@
 * [Management Board](management/board.md)
 * [Treasurer](management/treasurer.md)
 * [Secretary](management/secretary.md)
+* General Assembly
 

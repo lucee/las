@@ -1,7 +1,5 @@
 # Summary
 
-* [Management Board](management_board.md)
-   * Treasurer
-* [Membership](membership.md)
-* [Membership](membership.md)
+* [Management Board](management/management_board.md)
+* [Membership](membership/membership.md)
 

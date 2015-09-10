@@ -11,7 +11,7 @@ All sub committees answer to the Management Board and the LAS Membership it repr
 - require funding or resources from LAS, or;
 - are deemed controversial enough to need a referendum of LAS Members
 
-LAS sub committees should be no more than 7 persons in size. The purpose of the sub committee may determine the makeup of its members. Any limitations on membership will only be applied in the interest of furthering the committee's purpose.
+LAS sub committees should ideally be no more than 7 persons in size. The purpose of the sub committee may determine the makeup of its members. However, any limitations on membership will only be applied in the interest of furthering the committee's purpose.
 
 ## Roles & Responsibilities
 

@@ -27,7 +27,7 @@ The most important operational roles within LAS fall to the leadership of the el
 
 Additional committee members would include representatives of financial LAS Member organisations or LAS Member individuals.
 
-_Note; we currently have no “standing orders” for meetings, or rules for the election of officials_
 
-_Note; the Management Committee has agreed to the temporary appointment of Gert as Chairman, and Geoff as Secretary until such time as appropriate rules can be agreed._
+
+
 

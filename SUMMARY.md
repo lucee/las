@@ -1,5 +1,5 @@
 # Summary
 
 * [Membership](membership.md)
-* Management Board
+* [Management Board](management_board.md)
 

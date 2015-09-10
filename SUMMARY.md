@@ -4,5 +4,5 @@
 * [Membership](membership/membership.md)
 * [Management Board](management/board.md)
 * [Treasurer](management/treasurer.md)
-* Secretary
+* [Secretary](management/secretary.md)
 

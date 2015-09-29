@@ -5,7 +5,7 @@
 * [Management Board](management/board.md)
 * [Board Elections](management/board_elections.md)
 * [Chairman](management/chairman.md)
-* [Vice Chairman](management/vice_chairman.md)
+* [Vice President](management/vice_president.md)
 * [Treasurer](management/treasurer.md)
 * [Secretary](management/secretary.md)
 * [General Assembly](orders/general_assembly.md)

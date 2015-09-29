@@ -4,7 +4,7 @@
 * [Membership](membership/membership.md)
 * [Management Board](management/board.md)
 * [Board Elections](management/board_elections.md)
-* [Chairman](management/chairman.md)
+* [President](management/president.md)
 * [Vice President](management/vice_president.md)
 * [Treasurer](management/treasurer.md)
 * [Secretary](management/secretary.md)

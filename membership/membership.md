@@ -11,7 +11,7 @@ Members must fall within one of the following classes; individual, corporate or 
 
 A corporate entity can be a Member of LAS.  A corporate entity has a single vote. 
 
-A corporate entity may have several different representatives acting in a voluntary capacity on behalf of LAS. However, the Member only ever has a single vote with respect to binding decisions made by the Management Board or it’s sub-committees regardless of the number of contributing representatives.
+A corporate entity may have several different representatives acting in a voluntary capacity on behalf of LAS. However, the Member only ever has a single vote with respect to binding decisions made by the Management Board or it's sub-committees regardless of the number of contributing representatives.
 
 $599USD per calendar month
 
@@ -44,7 +44,7 @@ Alternatively, a vote on the admission of a new member can be raised by an exist
 _Note; the articles are out of order, but this may simply be a translation issue._
 
 > Articles; 4. Membership
-> The management can grant the honorary membership to any member furthering the company’s interests.
+> The management can grant the honorary membership to any member furthering the company's interests.
 
 Honorary Members are always voted on by all Members at a full General Assembly.
 
@@ -57,7 +57,7 @@ _Note; this proposal is in conflict with the existing Articles._
 
 Membership Dues are paid monthly in arrears.
 
-Members must be “financial” (ie be up to date with their membership dues). Failure to be “financial” can render a Members vote invalid and may result in expulsion.
+Members must be "financial" (ie. be up to date with their membership dues). Failure to be "financial" can render a Members vote invalid and may result in expulsion.
 
 Contra deals for services are not acceptable forms of payment for membership dues. If a Member is providing paid services to LAS that are recognised by the Management Board, remuneration will be made separately from the LAS accounts.
 

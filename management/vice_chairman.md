@@ -1,8 +1,6 @@
-# Vice Chairman
+# Vice President
 
-The Vice-Chairman assists the Chairman in whatever capacity the Chairman needs.  In an operational sense, the Vice Chairman is responsible for acting as the Chairman in the Chairman’s absence.
+The Vice-President assists the President in whatever capacity the President needs.  In an operational sense, the Vice President is responsible for acting as the President in the Presidents absence.
 
-_GB: How do we want to manage this?_
-
-_The Vice Chairman role varies from place to place.  Sometimes it’s a not even a specific role in its own right; for example, the Secretary might fulfil this role for a short absence or the Management Committee might elect an “acting Chairman” in the event of a more extended absence._
+_GB: The Vice President role varies from place to place.  Sometimes it's a not even a specific role in its own right; for example, the Secretary might fulfil this role for a short absence or the Management Board might elect an "acting President" in the event of a more extended absence._
 

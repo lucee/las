@@ -1,6 +1,6 @@
-# Chairman
+# President
 
-The Chairman is the leader but not the “boss”.  The key task of Chairman is to ensure that the needs and wishes of the Membership are given a voice and that LAS fulfils its charter to further the Lucee Server.
+The President is the leader but not the "boss". The key task of President is to ensure that the needs and wishes of the Membership are given a voice and that LAS fulfils its charter to further the Lucee Server.
 
 ## Responsibilities
 
@@ -10,10 +10,10 @@ The Chairman is the leader but not the “boss”.  The key task of Chairman is
 - Have a good working knowledge of the Articles, LAS rules and duties of office bearers and committees
 - Represent LAS; for example, at conferences or other public functions
 - Facilitate LAS activities: encourage and motivate Members to ensure that planned activities go ahead
-- Ensure LAS activities are sanctioned by the executive committee 
-- Work with the treasurer to ensure financial accountability 
+- Ensure LAS activities are sanctioned by the executive committee
+- Work with the treasurer to ensure financial accountability
 
-## Advice for Chairman
+## Advice for President
 
 - Lead without controlling
 - Involve Members in decisions that affect them

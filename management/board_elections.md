@@ -34,7 +34,7 @@ _GB: while i like this election process, the current Articles suggest that only 
 
 Non executive roles — TBD
 
-[https://en.wikipedia.org/wiki/Cumulative\_voting]
+[https://en.wikipedia.org/wiki/Cumulative_voting]
 
 _Note, we really need to understand if there are a fixed number of non-executive members, and what the makeup of the management board should be beyond the executive._
 
